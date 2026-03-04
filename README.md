@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 🧑‍💻 Yanuar Arifin — Junior Full Stack Developer
 📍 Universitas Pamulang | Semester 6 | Informatics Engineering
 
@@ -9,4 +7,3 @@
 🔐 Full-Featured Apps: Auth System · Security Notification · Dynamic & Static Websites
 📄 Document Automation: Microsoft Word & Excel Generation
 🎯 Goal: Delivering clean, scalable, and impactful web solutions.
--->
